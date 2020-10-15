@@ -1,0 +1,12 @@
+{
+  "name": "meb-ext-2",
+  "provider": "SAP",
+  "description": "extension without shell sdk",
+  "version": "1.0.0",
+  "icon": "https://icons.iconarchive.com/icons/sora-meliae/matrilineare/512/Mimes-opera-extension-icon.png",
+  "useShellSDK": false,
+  "dockerRegistry": "beatmeiersap",
+  "helmChartVersion": "1.0.0",
+  "parameters": [],
+  "outletPositions": ["WFM_ACTIVITY_SIDEBAR"]
+}
